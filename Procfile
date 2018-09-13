@@ -1,1 +1,1 @@
-bot-vini: python "main.py"
+velhovinibotai: python "main.py"
