@@ -52,7 +52,7 @@ def conversaBot(mensagem):
         return "Ocorreu um erro!"
 
 # Cria objeto telebot e habilita com token do Telegram
-telebot = telepot.Bot("TELEGRAM['TOKEN']")
+telebot = telepot.Bot(TELEGRAM['TOKEN'])
 
 # Método do telebot
 def handle(msg):
