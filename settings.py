@@ -1,0 +1,5 @@
+
+
+TELEGRAM = {
+    "TOKEN": "666636689:AAFeylBdU1mW44kdL7_oAZHKcqpQxADHz0w"
+}

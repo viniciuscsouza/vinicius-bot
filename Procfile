@@ -1,0 +1,1 @@
+bot-vini: python "main.py"
